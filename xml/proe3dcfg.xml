@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<picpath>
+		<item>https://raw.github.com/gaillysu/apk/master/proe3d/s1.jpg</item>
+		<item>https://raw.github.com/gaillysu/apk/master/proe3d/s2.jpg</item>
+		<item>https://raw.github.com/gaillysu/apk/master/proe3d/s3.jpg</item>
+		<item>https://raw.github.com/gaillysu/apk/master/proe3d/s4.jpg</item>
+		<item>https://raw.github.com/gaillysu/apk/master/proe3d/s5.jpg</item>
+	</picpath>
+</config>
